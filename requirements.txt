@@ -1,0 +1,10 @@
+chromadb==0.5.5
+huggingface_hub==0.23.4
+langchain==0.2.12
+llama_index==0.10.62
+streamlit==1.36.0
+streamlit_extras==0.4.6
+llama-index-vector-stores-chroma==0.1.10
+pysqlite3-binary
+langchain-community==0.2.6
+sentence-transformers
