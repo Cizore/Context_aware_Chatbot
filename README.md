@@ -19,11 +19,11 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/todap/RAG.git
+    git clone https://github.com/Cizore/Context_aware_Chatbot.git
     ```
 2. Navigate to the project directory.
     ```bash
-    cd RAG
+    cd Context_aware_Chatbot
     ```
 3. Install the required dependencies.
     ```bash
